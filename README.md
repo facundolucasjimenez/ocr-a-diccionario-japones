@@ -18,7 +18,7 @@ Clases MenuPrincipal, Configuración y FrameArea basadas en https://github.com/K
 
 ### Notas
 
-1. "Fullscreen Exclusive mode gives your game complete ownership of the display and allocation of resources of your graphics card"
+1. > "Fullscreen Exclusive mode gives your game complete ownership of the display and allocation of resources of your graphics card"
 
 https://devblogs.microsoft.com/directx/demystifying-full-screen-optimizations/
 

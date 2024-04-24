@@ -1,17 +1,21 @@
 # ocr a diccionario japonés
  ![ocr-a-diccionario](https://github.com/facundolucasjimenez/ocr-a-diccionario-japones/assets/103152905/96d00bae-dfae-4733-950e-dc8dfec2a69a)
 
-·Programa escrito en Java para capturar caracteres japoneses en imágenes. Pensado para casos de uso donde no podrían ser copiados de otra forma (principalmente en programas que usan Exclusive Fullscreen<sup>1</sup>), busca simplificar el proceso desde la captura hasta la entrada en un diccionario web en una ventana emergente
+· Programa escrito en Java para capturar caracteres japoneses en imágenes. Pensado para casos de uso donde no podrían ser copiados de otra forma (principalmente en programas que usan Exclusive Fullscreen<sup>1</sup>), busca simplificar el proceso desde la captura hasta la entrada en un diccionario web en una ventana emergente
 
-·Guarda lecturas en un objeto serializable para practicar con un quiz de opción múltiple (últimos X o X aleatorios)
+· Guarda lecturas en un objeto serializable para practicar con un quiz de opción múltiple (últimos X o X aleatorios)
 
-·Dos motores OCR
+· Dos motores OCR
  - Google Cloud Vision (requiere setear variable de entorno de sistema GOOGLE_APPLICATION_CREDENTIALS con una api key de google)
  - Tesseract
 
-·Sentido de lectura horizontal o vertical (solo tesseract)
+· Sentido de lectura horizontal o vertical (solo tesseract)
 
-·Solo windows
+· Solo windows
+
+## Requisitos
+
+· Java 8
 
 ## Créditos
 Clases MenuPrincipal, Configuración y FrameArea basadas en https://github.com/Kevin-Medzorian/Advanced-Java-Snipping-Tool/

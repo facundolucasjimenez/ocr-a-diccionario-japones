@@ -17,6 +17,8 @@
 
 · Java 8
 
+· Maven para compilar con las dependencias del pom.xml
+
 ## Créditos
 Clases MenuPrincipal, Configuración y FrameArea basadas en https://github.com/Kevin-Medzorian/Advanced-Java-Snipping-Tool/
 

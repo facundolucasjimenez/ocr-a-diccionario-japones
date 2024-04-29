@@ -13,6 +13,12 @@
 
 · Solo windows
 
+## Uso
+
+· Hotkey para activar el modo captura es ctrl(izq)+printscreen por defecto, se puede cambiar en el archivo de configuración ([solo admite virtual-key codes](https://pages.github.com/))
+
+· Si el modo click&drag está desactivado, la captura comienza segundos después de apretar el hotkey y solamente se debe arrastrar el cursor
+
 ## Requisitos
 
 · Java 8
